@@ -1,1053 +1,1086 @@
 [
   {
-    "studentnummer": "s12915578",
+    "studentnummer": "s16800442",
     "geslaagd": false,
     "cijferlijst": [
-      7.7,
-      9.7,
-      4.6,
-      5.8,
-      8.8
-    ]
-  },
-  {
-    "studentnummer": "s19238515",
-    "geslaagd": false,
-    "cijferlijst": [
-      1.6,
-      9.1,
-      9.0,
-      3.7,
-      4.8,
-      4.1,
-      9.2,
-      5.7,
-      9.4,
-      8.8
-    ]
-  },
-  {
-    "studentnummer": "s13135104",
-    "geslaagd": true,
-    "cijferlijst": [
-      8.8
-    ]
-  },
-  {
-    "studentnummer": "s16793850",
-    "geslaagd": false,
-    "cijferlijst": [
-      3.3,
-      6.5
-    ]
-  },
-  {
-    "studentnummer": "s15221153",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s15466231",
-    "geslaagd": true,
-    "cijferlijst": [
-      8.3,
-      3.9,
-      3.0,
-      5.4,
-      7.2,
-      2.0
-    ]
-  },
-  {
-    "studentnummer": "s13360741",
-    "geslaagd": false,
-    "cijferlijst": [
-      5.2
-    ]
-  },
-  {
-    "studentnummer": "s10791180",
-    "geslaagd": false,
-    "cijferlijst": [
-      3.8,
-      4.4,
-      6.1,
-      9.4
-    ]
-  },
-  {
-    "studentnummer": "s14585260",
-    "geslaagd": false,
-    "cijferlijst": [
-      10.0,
-      4.5,
-      9.7
-    ]
-  },
-  {
-    "studentnummer": "s16262927",
-    "geslaagd": false,
-    "cijferlijst": [
-      6.9,
-      3.2,
-      4.1,
-      2.3,
-      5.8
-    ]
-  },
-  {
-    "studentnummer": "s11445245",
-    "geslaagd": false,
-    "cijferlijst": [
-      6.9,
-      3.3,
-      7.2,
-      6.5,
-      1.3,
-      10.0,
-      7.7,
-      1.4
-    ]
-  },
-  {
-    "studentnummer": "s15358496",
-    "geslaagd": true,
-    "cijferlijst": [
-      9.3,
-      9.6,
-      1.5,
-      1.5,
-      8.9,
-      1.0
-    ]
-  },
-  {
-    "studentnummer": "s12399384",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s12682066",
-    "geslaagd": true,
-    "cijferlijst": [
-      6.7
-    ]
-  },
-  {
-    "studentnummer": "s18074946",
-    "geslaagd": false,
-    "cijferlijst": [
-      4.9,
-      1.2,
-      8.4,
-      5.6,
-      8.5,
-      8.1
-    ]
-  },
-  {
-    "studentnummer": "s10115968",
-    "geslaagd": true,
-    "cijferlijst": [
+      8.8,
       3.5,
       7.0,
-      5.6
-    ]
-  },
-  {
-    "studentnummer": "s16530210",
-    "geslaagd": true,
-    "cijferlijst": [
-      7.9,
-      7.8,
-      4.0,
-      2.6,
-      7.9,
-      1.6,
-      1.1,
-      9.1
-    ]
-  },
-  {
-    "studentnummer": "s18278552",
-    "geslaagd": true,
-    "cijferlijst": [
-      2.9,
-      4.4,
-      2.7,
+      1.8,
+      2.4,
+      8.5,
+      9.5,
       7.1,
-      9.7,
+      6.1,
+      3.1
+    ]
+  },
+  {
+    "studentnummer": "s10571681",
+    "geslaagd": false,
+    "cijferlijst": [
+      9.4,
+      7.0,
+      4.5,
+      5.4,
+      7.1,
+      2.7,
+      4.9
+    ]
+  },
+  {
+    "studentnummer": "s13663476",
+    "geslaagd": false,
+    "cijferlijst": [
+      1.8,
+      1.2,
+      3.0,
+      8.5,
+      5.1,
+      2.4,
+      2.3,
+      2.2
+    ]
+  },
+  {
+    "studentnummer": "s13314602",
+    "geslaagd": true,
+    "cijferlijst": [
+      1.0,
+      5.0,
+      9.5,
+      6.2,
+      3.5,
+      5.5,
+      1.4,
+      4.1
+    ]
+  },
+  {
+    "studentnummer": "s15456117",
+    "geslaagd": false
+  },
+  {
+    "studentnummer": "s14443797",
+    "geslaagd": false
+  },
+  {
+    "studentnummer": "s15153151",
+    "geslaagd": false,
+    "cijferlijst": [
+      4.4,
+      10.0,
+      2.4,
+      4.0,
+      4.1,
+      8.6
+    ]
+  },
+  {
+    "studentnummer": "s16571962",
+    "geslaagd": false,
+    "cijferlijst": [
+      4.0,
+      6.5,
+      9.8,
+      1.2,
+      9.6,
+      9.2,
+      7.8,
+      10.0,
+      2.3
+    ]
+  },
+  {
+    "studentnummer": "s18384078",
+    "geslaagd": true,
+    "cijferlijst": [
+      6.6,
+      7.8,
+      6.6,
+      10.0,
+      9.3,
+      6.2
+    ]
+  },
+  {
+    "studentnummer": "s10019385",
+    "geslaagd": false,
+    "cijferlijst": [
+      5.7,
+      5.6,
+      3.8,
+      6.9,
+      6.7,
+      8.1,
+      2.1,
+      4.1
+    ]
+  },
+  {
+    "studentnummer": "s19575223",
+    "geslaagd": false,
+    "cijferlijst": [
+      7.0,
+      3.7,
+      2.7,
       1.8
     ]
   },
   {
-    "studentnummer": "s15278600",
+    "studentnummer": "s15376554",
     "geslaagd": false,
     "cijferlijst": [
-      9.0,
-      1.5,
+      7.9
+    ]
+  },
+  {
+    "studentnummer": "s14007940",
+    "geslaagd": false,
+    "cijferlijst": [
+      7.5
+    ]
+  },
+  {
+    "studentnummer": "s18379890",
+    "geslaagd": true,
+    "cijferlijst": [
+      5.8,
+      8.9,
+      7.1,
+      3.5
+    ]
+  },
+  {
+    "studentnummer": "s10343261",
+    "geslaagd": false,
+    "cijferlijst": [
+      5.4,
+      2.9,
+      4.6
+    ]
+  },
+  {
+    "studentnummer": "s18726772",
+    "geslaagd": false,
+    "cijferlijst": [
+      3.9,
+      6.6,
+      4.0,
       3.9
     ]
   },
   {
-    "studentnummer": "s10636144",
-    "geslaagd": true,
+    "studentnummer": "s10489420",
+    "geslaagd": false,
     "cijferlijst": [
-      6.4,
-      4.5,
-      9.6,
-      10.0,
-      6.7,
-      6.1,
-      8.4
+      1.0,
+      1.1,
+      3.1
     ]
   },
   {
-    "studentnummer": "s17790785",
+    "studentnummer": "s14879428",
     "geslaagd": false,
     "cijferlijst": [
+      2.5
+    ]
+  },
+  {
+    "studentnummer": "s13026881",
+    "geslaagd": true,
+    "cijferlijst": [
+      8.2,
+      9.9,
+      4.2,
+      5.2,
+      8.1,
+      3.2,
+      8.9,
+      4.1,
+      5.5,
+      9.6
+    ]
+  },
+  {
+    "studentnummer": "s11567214",
+    "geslaagd": true,
+    "cijferlijst": [
+      3.4,
+      5.4,
+      3.1,
+      2.9,
+      8.1,
       4.2,
       9.0
     ]
   },
   {
-    "studentnummer": "s14513234",
-    "geslaagd": false,
+    "studentnummer": "s14422936",
+    "geslaagd": true,
     "cijferlijst": [
-      2.2,
-      5.4,
+      7.4,
       5.7,
-      7.7,
-      8.4,
-      1.1,
-      2.6,
-      4.9
-    ]
-  },
-  {
-    "studentnummer": "s15640698",
-    "geslaagd": true,
-    "cijferlijst": [
-      3.1,
-      9.9,
-      8.2,
-      4.9,
-      5.4,
-      9.8,
-      2.0,
-      3.2,
-      4.0
-    ]
-  },
-  {
-    "studentnummer": "s10294136",
-    "geslaagd": false,
-    "cijferlijst": [
-      3.5,
-      2.1,
-      9.9,
-      4.3,
-      9.7,
-      4.5,
-      2.2,
-      6.2,
-      5.7,
-      8.3
-    ]
-  },
-  {
-    "studentnummer": "s10413716",
-    "geslaagd": true,
-    "cijferlijst": [
-      9.0,
-      1.1,
+      5.1,
       3.0,
-      9.4,
-      1.4,
-      4.0,
-      1.4,
-      2.9
-    ]
-  },
-  {
-    "studentnummer": "s16077587",
-    "geslaagd": true,
-    "cijferlijst": [
-      1.8,
-      8.0,
-      6.2
-    ]
-  },
-  {
-    "studentnummer": "s14664847",
-    "geslaagd": true,
-    "cijferlijst": [
-      2.8,
-      1.1,
-      9.6
-    ]
-  },
-  {
-    "studentnummer": "s15411382",
-    "geslaagd": false,
-    "cijferlijst": [
-      3.3,
-      9.2,
-      5.8,
-      4.2
-    ]
-  },
-  {
-    "studentnummer": "s19754763",
-    "geslaagd": false,
-    "cijferlijst": [
-      7.3,
-      3.9
-    ]
-  },
-  {
-    "studentnummer": "s11937370",
-    "geslaagd": true,
-    "cijferlijst": [
-      2.7,
-      4.5,
-      7.3,
-      4.9,
-      3.8,
-      6.2
-    ]
-  },
-  {
-    "studentnummer": "s19931096",
-    "geslaagd": true,
-    "cijferlijst": [
-      8.6,
-      3.4,
-      8.8,
-      6.6,
-      8.0
-    ]
-  },
-  {
-    "studentnummer": "s10819291",
-    "geslaagd": true,
-    "cijferlijst": [
-      6.6,
-      1.1,
-      6.3,
-      2.7,
-      6.5,
-      3.4
-    ]
-  },
-  {
-    "studentnummer": "s15800694",
-    "geslaagd": false,
-    "cijferlijst": [
-      9.1,
-      4.1
-    ]
-  },
-  {
-    "studentnummer": "s18514001",
-    "geslaagd": false,
-    "cijferlijst": [
-      6.3,
-      1.2,
-      2.0,
-      7.2,
-      8.0,
-      9.3,
-      5.6,
-      3.9
-    ]
-  },
-  {
-    "studentnummer": "s11238033",
-    "geslaagd": true,
-    "cijferlijst": [
-      9.8,
-      2.9,
-      3.0,
-      9.4,
-      5.0,
-      9.8,
-      2.4,
-      2.3,
-      5.2,
-      5.3
-    ]
-  },
-  {
-    "studentnummer": "s12826517",
-    "geslaagd": true,
-    "cijferlijst": [
-      7.6,
-      8.4,
-      1.7,
-      9.9,
-      3.3,
-      9.0,
-      4.1
-    ]
-  },
-  {
-    "studentnummer": "s19213724",
-    "geslaagd": true,
-    "cijferlijst": [
-      1.1,
-      8.1,
-      2.8
-    ]
-  },
-  {
-    "studentnummer": "s18781698",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s18938488",
-    "geslaagd": false,
-    "cijferlijst": [
-      7.0,
-      6.8,
-      2.4,
-      8.1,
-      3.9,
-      6.9
-    ]
-  },
-  {
-    "studentnummer": "s18413751",
-    "geslaagd": true,
-    "cijferlijst": [
-      3.2,
-      3.7,
-      7.8,
-      5.6,
-      3.2
-    ]
-  },
-  {
-    "studentnummer": "s11238768",
-    "geslaagd": true,
-    "cijferlijst": [
-      3.2,
-      10.0,
-      4.9,
-      3.8,
-      7.9,
-      5.3
-    ]
-  },
-  {
-    "studentnummer": "s15764679",
-    "geslaagd": true,
-    "cijferlijst": [
-      9.6,
-      4.0,
       7.2
     ]
   },
   {
-    "studentnummer": "s19552398",
+    "studentnummer": "s15951927",
     "geslaagd": false,
     "cijferlijst": [
-      5.7,
-      4.5,
-      10.0
-    ]
-  },
-  {
-    "studentnummer": "s19482555",
-    "geslaagd": true,
-    "cijferlijst": [
-      5.5,
-      8.5,
-      4.1,
-      6.5
-    ]
-  },
-  {
-    "studentnummer": "s11439927",
-    "geslaagd": false,
-    "cijferlijst": [
-      5.4,
-      6.6,
-      3.2,
-      7.7,
-      4.6
-    ]
-  },
-  {
-    "studentnummer": "s13186421",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s16943340",
-    "geslaagd": false,
-    "cijferlijst": [
-      5.9,
-      4.4,
-      1.5,
-      4.5,
-      1.6
-    ]
-  },
-  {
-    "studentnummer": "s11676451",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s15750943",
-    "geslaagd": false,
-    "cijferlijst": [
-      2.8,
       5.3,
-      7.1,
-      6.4,
-      6.7,
-      6.0,
-      9.3,
-      1.5,
-      8.9,
-      9.4
-    ]
-  },
-  {
-    "studentnummer": "s13660926",
-    "geslaagd": true,
-    "cijferlijst": [
-      2.7,
-      3.6,
-      9.9,
-      5.4,
-      1.4,
-      3.0,
-      7.4
-    ]
-  },
-  {
-    "studentnummer": "s11673323",
-    "geslaagd": true,
-    "cijferlijst": [
-      6.9,
-      2.1,
-      6.9,
-      2.5,
-      1.8,
-      9.2,
-      7.6
-    ]
-  },
-  {
-    "studentnummer": "s10062096",
-    "geslaagd": true,
-    "cijferlijst": [
-      3.7,
-      1.3
-    ]
-  },
-  {
-    "studentnummer": "s14206751",
-    "geslaagd": false,
-    "cijferlijst": [
-      9.4,
-      5.8,
-      8.6,
-      2.6,
-      1.9,
-      3.7
-    ]
-  },
-  {
-    "studentnummer": "s17526527",
-    "geslaagd": true,
-    "cijferlijst": [
-      4.6,
-      8.9,
-      9.6,
-      3.5,
-      5.2,
-      1.3,
-      3.9,
-      3.8
-    ]
-  },
-  {
-    "studentnummer": "s14106840",
-    "geslaagd": false,
-    "cijferlijst": [
-      8.6,
-      2.8,
-      4.0,
-      6.2,
-      3.9
-    ]
-  },
-  {
-    "studentnummer": "s10295073",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s14611192",
-    "geslaagd": true,
-    "cijferlijst": [
-      2.1,
-      6.8,
-      5.1,
-      5.8,
-      1.5,
-      8.6,
-      7.9,
-      5.5,
-      1.7,
-      5.9
-    ]
-  },
-  {
-    "studentnummer": "s10385547",
-    "geslaagd": true,
-    "cijferlijst": [
-      1.5,
-      8.2,
-      9.0,
-      6.2
-    ]
-  },
-  {
-    "studentnummer": "s11927681",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s11987877",
-    "geslaagd": false,
-    "cijferlijst": [
-      6.2
-    ]
-  },
-  {
-    "studentnummer": "s11144515",
-    "geslaagd": false,
-    "cijferlijst": [
-      4.9,
-      9.3,
-      4.0,
-      9.3,
-      1.6,
-      9.3,
-      5.1,
-      2.7,
-      1.1
-    ]
-  },
-  {
-    "studentnummer": "s10855400",
-    "geslaagd": false,
-    "cijferlijst": [
-      6.2,
-      6.5,
-      7.5,
-      4.0,
-      5.6,
-      1.3,
-      1.6,
-      5.8,
-      2.6,
-      1.1
-    ]
-  },
-  {
-    "studentnummer": "s12762091",
-    "geslaagd": true,
-    "cijferlijst": [
-      9.8,
-      7.5,
-      4.8,
-      8.4,
-      4.0,
-      1.6,
-      5.9,
-      2.4
-    ]
-  },
-  {
-    "studentnummer": "s19780214",
-    "geslaagd": true,
-    "cijferlijst": [
-      3.6,
-      5.0,
-      2.1,
-      3.8,
-      3.4,
-      2.7,
-      8.7,
-      2.2
-    ]
-  },
-  {
-    "studentnummer": "s18485791",
-    "geslaagd": false,
-    "cijferlijst": [
-      3.5,
-      6.9,
-      3.9,
-      1.4,
-      9.8,
-      2.4,
-      1.6,
-      6.3,
-      6.6,
-      1.0
-    ]
-  },
-  {
-    "studentnummer": "s13295349",
-    "geslaagd": false,
-    "cijferlijst": [
-      7.1,
-      6.1,
-      8.6,
-      4.8,
-      9.1,
-      4.7,
-      8.3,
-      3.8,
-      2.6
-    ]
-  },
-  {
-    "studentnummer": "s10844808",
-    "geslaagd": true,
-    "cijferlijst": [
-      1.1,
-      8.8
-    ]
-  },
-  {
-    "studentnummer": "s19998060",
-    "geslaagd": true,
-    "cijferlijst": [
-      1.3
-    ]
-  },
-  {
-    "studentnummer": "s11146458",
-    "geslaagd": true,
-    "cijferlijst": [
-      3.8,
-      9.0,
-      6.9,
-      1.8,
-      5.0,
-      4.5,
-      2.7
-    ]
-  },
-  {
-    "studentnummer": "s14264173",
-    "geslaagd": false,
-    "cijferlijst": [
-      7.1,
-      6.2,
-      9.5,
-      9.8,
-      1.8
-    ]
-  },
-  {
-    "studentnummer": "s19736082",
-    "geslaagd": true,
-    "cijferlijst": [
-      1.6,
-      9.7,
-      9.7,
-      9.9,
-      9.3,
-      3.5,
       8.0,
-      9.5,
-      9.9,
-      1.4
+      7.8,
+      4.4,
+      9.7,
+      1.8,
+      6.1,
+      3.3,
+      9.5
     ]
   },
   {
-    "studentnummer": "s11336784",
-    "geslaagd": true,
-    "cijferlijst": [
-      8.5,
-      3.0,
-      7.7,
-      5.8
-    ]
-  },
-  {
-    "studentnummer": "s14231363",
-    "geslaagd": true,
-    "cijferlijst": [
-      8.5,
-      8.3,
-      3.4,
-      9.4,
-      5.2,
-      3.6
-    ]
-  },
-  {
-    "studentnummer": "s15176858",
-    "geslaagd": true,
-    "cijferlijst": [
-      3.0,
-      9.0,
-      5.2
-    ]
-  },
-  {
-    "studentnummer": "s10958907",
+    "studentnummer": "s16253705",
     "geslaagd": false,
     "cijferlijst": [
-      1.5,
-      1.5,
-      5.7
-    ]
-  },
-  {
-    "studentnummer": "s14002308",
-    "geslaagd": false,
-    "cijferlijst": [
+      7.8,
+      8.9,
+      9.8,
       3.2
     ]
   },
   {
-    "studentnummer": "s19801208",
+    "studentnummer": "s18583790",
     "geslaagd": true,
     "cijferlijst": [
-      4.7,
-      4.8,
-      7.9,
-      3.2,
-      9.5,
-      4.9,
-      6.5,
-      1.6,
-      9.6
-    ]
-  },
-  {
-    "studentnummer": "s16762887",
-    "geslaagd": false,
-    "cijferlijst": [
-      2.8,
       4.6,
-      9.3,
-      7.6,
-      1.9,
-      2.7,
-      8.6
-    ]
-  },
-  {
-    "studentnummer": "s11805292",
-    "geslaagd": false,
-    "cijferlijst": [
-      2.5,
-      5.3
-    ]
-  },
-  {
-    "studentnummer": "s11498890",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s10239750",
-    "geslaagd": false,
-    "cijferlijst": [
-      6.0,
-      2.0,
-      7.3,
-      4.8,
-      9.6
-    ]
-  },
-  {
-    "studentnummer": "s12032110",
-    "geslaagd": false,
-    "cijferlijst": [
-      2.7,
-      7.3
-    ]
-  },
-  {
-    "studentnummer": "s16342257",
-    "geslaagd": false,
-    "cijferlijst": [
-      6.6,
-      5.1,
-      3.2,
-      6.4,
-      1.0
-    ]
-  },
-  {
-    "studentnummer": "s17565955",
-    "geslaagd": true,
-    "cijferlijst": [
-      5.9,
-      8.5,
-      7.2,
-      2.2,
-      9.9
-    ]
-  },
-  {
-    "studentnummer": "s10024267",
-    "geslaagd": false,
-    "cijferlijst": [
-      7.3
-    ]
-  },
-  {
-    "studentnummer": "s17795313",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s17116907",
-    "geslaagd": true,
-    "cijferlijst": [
       8.1
     ]
   },
   {
-    "studentnummer": "s12126101",
+    "studentnummer": "s17923078",
     "geslaagd": false,
     "cijferlijst": [
-      6.6,
-      6.1,
-      6.9,
-      7.9,
-      9.0,
-      6.3
+      3.8
     ]
   },
   {
-    "studentnummer": "s15889146",
-    "geslaagd": false
-  },
-  {
-    "studentnummer": "s18207467",
-    "geslaagd": true,
+    "studentnummer": "s18661396",
+    "geslaagd": false,
     "cijferlijst": [
-      6.9,
-      2.3,
-      8.8,
-      4.2,
-      6.7,
-      5.2
+      2.3
     ]
   },
   {
-    "studentnummer": "s13621410",
+    "studentnummer": "s16212817",
     "geslaagd": true,
     "cijferlijst": [
-      3.6,
-      7.0,
-      1.5,
-      3.1,
-      3.0,
-      6.5
+      5.3,
+      2.6,
+      2.9
     ]
   },
   {
-    "studentnummer": "s10987154",
-    "geslaagd": true,
+    "studentnummer": "s17629135",
+    "geslaagd": false,
     "cijferlijst": [
-      6.0,
-      6.4,
-      10.0,
-      4.2,
-      1.7
-    ]
-  },
-  {
-    "studentnummer": "s19433104",
-    "geslaagd": true,
-    "cijferlijst": [
-      6.0,
-      6.6,
-      4.9,
-      9.4
-    ]
-  },
-  {
-    "studentnummer": "s11928973",
-    "geslaagd": true,
-    "cijferlijst": [
-      9.1,
-      2.9,
-      7.3,
+      5.7,
+      2.7,
       9.5,
-      6.7,
-      6.1,
-      7.3,
-      7.3
+      9.2,
+      7.9
     ]
   },
   {
-    "studentnummer": "s11784687",
+    "studentnummer": "s14078496",
     "geslaagd": true,
     "cijferlijst": [
-      8.7
-    ]
-  },
-  {
-    "studentnummer": "s10369322",
-    "geslaagd": false,
-    "cijferlijst": [
-      4.4
-    ]
-  },
-  {
-    "studentnummer": "s15726069",
-    "geslaagd": false,
-    "cijferlijst": [
-      5.9,
-      5.3,
-      8.8,
-      6.8,
-      2.6
-    ]
-  },
-  {
-    "studentnummer": "s15710200",
-    "geslaagd": false,
-    "cijferlijst": [
-      6.2,
-      2.8
-    ]
-  },
-  {
-    "studentnummer": "s18596466",
-    "geslaagd": true,
-    "cijferlijst": [
-      6.8,
-      10.0,
-      2.9,
-      2.5,
-      5.3,
-      8.3,
-      5.2,
+      7.2,
+      6.6,
+      9.3,
+      7.7,
+      5.7,
+      4.2,
+      2.8,
+      8.5,
       6.9
     ]
   },
   {
-    "studentnummer": "s15998530",
+    "studentnummer": "s13768715",
+    "geslaagd": true,
+    "cijferlijst": [
+      4.3,
+      3.8,
+      9.8
+    ]
+  },
+  {
+    "studentnummer": "s12662733",
     "geslaagd": false,
     "cijferlijst": [
+      1.5,
+      9.8,
+      9.5,
+      3.3,
+      4.8,
+      8.2,
+      2.9,
+      3.4,
+      4.1,
+      6.9
+    ]
+  },
+  {
+    "studentnummer": "s17231123",
+    "geslaagd": false,
+    "cijferlijst": [
+      5.6,
+      7.8,
+      5.6,
+      6.7,
+      8.7
+    ]
+  },
+  {
+    "studentnummer": "s15927182",
+    "geslaagd": true,
+    "cijferlijst": [
+      3.2,
+      1.5,
+      9.5,
+      4.1,
+      8.7
+    ]
+  },
+  {
+    "studentnummer": "s15158370",
+    "geslaagd": false,
+    "cijferlijst": [
+      2.0,
+      7.9,
+      5.9,
+      3.4,
+      5.1,
+      2.8,
+      7.4,
+      1.5
+    ]
+  },
+  {
+    "studentnummer": "s18994638",
+    "geslaagd": false,
+    "cijferlijst": [
+      9.8,
+      4.1,
+      1.9,
+      3.6,
+      6.1,
+      3.9,
+      6.4,
+      5.5
+    ]
+  },
+  {
+    "studentnummer": "s13582177",
+    "geslaagd": true,
+    "cijferlijst": [
+      1.6,
+      7.1,
+      8.6,
+      2.5
+    ]
+  },
+  {
+    "studentnummer": "s13540487",
+    "geslaagd": true,
+    "cijferlijst": [
+      7.6,
+      1.0
+    ]
+  },
+  {
+    "studentnummer": "s11654264",
+    "geslaagd": false,
+    "cijferlijst": [
+      3.4,
+      8.4,
+      7.4,
+      2.3,
+      1.4,
+      8.2
+    ]
+  },
+  {
+    "studentnummer": "s11731598",
+    "geslaagd": true,
+    "cijferlijst": [
+      9.6,
+      1.8,
+      7.3,
+      2.1,
+      9.9,
+      7.6,
+      2.7
+    ]
+  },
+  {
+    "studentnummer": "s11630152",
+    "geslaagd": false,
+    "cijferlijst": [
+      4.9,
+      4.7,
+      7.5,
+      1.3,
+      1.0,
       4.2,
-      8.1,
+      7.9,
+      8.7,
+      1.4,
+      3.4
+    ]
+  },
+  {
+    "studentnummer": "s13545813",
+    "geslaagd": true,
+    "cijferlijst": [
+      7.3,
+      9.4,
+      2.6,
+      6.4,
+      4.1,
+      6.1,
+      7.2
+    ]
+  },
+  {
+    "studentnummer": "s16489626",
+    "geslaagd": true,
+    "cijferlijst": [
+      2.5
+    ]
+  },
+  {
+    "studentnummer": "s15652955",
+    "geslaagd": true,
+    "cijferlijst": [
+      1.2,
+      7.5,
+      6.8
+    ]
+  },
+  {
+    "studentnummer": "s12126993",
+    "geslaagd": false,
+    "cijferlijst": [
+      4.0,
+      5.2,
+      9.4,
+      9.0,
       9.3,
+      3.4,
+      9.2,
+      3.6
+    ]
+  },
+  {
+    "studentnummer": "s13050191",
+    "geslaagd": true,
+    "cijferlijst": [
+      5.8,
+      7.8,
+      2.5,
+      3.5,
+      6.1
+    ]
+  },
+  {
+    "studentnummer": "s19878708",
+    "geslaagd": true,
+    "cijferlijst": [
+      5.3,
+      7.3,
+      7.5,
+      4.7,
+      6.1,
+      2.5,
+      2.6,
+      3.6,
+      7.8,
+      2.4
+    ]
+  },
+  {
+    "studentnummer": "s19008870",
+    "geslaagd": true,
+    "cijferlijst": [
+      4.6,
+      2.4,
+      4.2,
+      6.4,
+      6.8,
+      5.5,
+      2.1
+    ]
+  },
+  {
+    "studentnummer": "s13157252",
+    "geslaagd": true,
+    "cijferlijst": [
+      2.2
+    ]
+  },
+  {
+    "studentnummer": "s10883858",
+    "geslaagd": false,
+    "cijferlijst": [
+      8.8,
+      6.7,
+      10.0,
+      6.7
+    ]
+  },
+  {
+    "studentnummer": "s18901627",
+    "geslaagd": true,
+    "cijferlijst": [
+      7.3
+    ]
+  },
+  {
+    "studentnummer": "s18624067",
+    "geslaagd": true,
+    "cijferlijst": [
+      8.7,
+      9.8,
+      1.1,
+      3.2,
+      2.7,
+      2.3,
+      2.1,
+      8.7
+    ]
+  },
+  {
+    "studentnummer": "s18956838",
+    "geslaagd": false,
+    "cijferlijst": [
+      5.8,
+      5.8,
+      4.5,
+      1.7,
+      10.0
+    ]
+  },
+  {
+    "studentnummer": "s15288925",
+    "geslaagd": false,
+    "cijferlijst": [
+      8.8,
+      3.2,
+      7.9,
+      5.5,
+      1.3,
+      4.1,
+      5.6
+    ]
+  },
+  {
+    "studentnummer": "s15266646",
+    "geslaagd": true,
+    "cijferlijst": [
+      5.2,
+      2.6,
+      2.2,
+      9.7,
+      4.1,
+      2.1,
+      6.1,
+      7.4
+    ]
+  },
+  {
+    "studentnummer": "s16780544",
+    "geslaagd": false,
+    "cijferlijst": [
+      5.6
+    ]
+  },
+  {
+    "studentnummer": "s14045738",
+    "geslaagd": true,
+    "cijferlijst": [
+      4.3,
+      3.8,
+      5.3,
+      3.8,
+      10.0,
+      5.7,
+      7.0,
+      1.9,
+      1.6
+    ]
+  },
+  {
+    "studentnummer": "s19037889",
+    "geslaagd": true,
+    "cijferlijst": [
+      3.1,
+      1.6,
+      7.2,
+      2.7,
+      8.0,
+      6.2,
+      7.5,
+      8.9,
+      7.9,
+      2.5
+    ]
+  },
+  {
+    "studentnummer": "s16459923",
+    "geslaagd": false,
+    "cijferlijst": [
+      5.2
+    ]
+  },
+  {
+    "studentnummer": "s13238889",
+    "geslaagd": false,
+    "cijferlijst": [
+      1.4,
+      4.6
+    ]
+  },
+  {
+    "studentnummer": "s11467999",
+    "geslaagd": true,
+    "cijferlijst": [
+      7.6
+    ]
+  },
+  {
+    "studentnummer": "s16583381",
+    "geslaagd": true,
+    "cijferlijst": [
+      7.2,
+      3.5,
+      3.7,
+      7.7,
+      5.4,
+      8.5,
+      9.2,
+      9.2,
+      1.7
+    ]
+  },
+  {
+    "studentnummer": "s15985384",
+    "geslaagd": false,
+    "cijferlijst": [
+      1.6,
+      7.7,
+      1.7,
+      7.0,
+      8.5
+    ]
+  },
+  {
+    "studentnummer": "s19081982",
+    "geslaagd": true,
+    "cijferlijst": [
+      8.5,
+      6.7,
+      9.6,
+      7.6,
+      5.6,
+      3.2,
+      4.1
+    ]
+  },
+  {
+    "studentnummer": "s17481040",
+    "geslaagd": true,
+    "cijferlijst": [
+      6.7,
+      5.2,
+      5.9,
+      4.8,
+      9.0,
+      5.9,
+      1.1
+    ]
+  },
+  {
+    "studentnummer": "s14707250",
+    "geslaagd": false,
+    "cijferlijst": [
+      6.8,
+      6.7
+    ]
+  },
+  {
+    "studentnummer": "s17000922",
+    "geslaagd": true,
+    "cijferlijst": [
+      8.8,
+      7.5,
+      3.8
+    ]
+  },
+  {
+    "studentnummer": "s16760800",
+    "geslaagd": true,
+    "cijferlijst": [
+      3.1,
+      4.1,
+      5.5,
+      9.2
+    ]
+  },
+  {
+    "studentnummer": "s11461873",
+    "geslaagd": true,
+    "cijferlijst": [
+      8.4
+    ]
+  },
+  {
+    "studentnummer": "s11191219",
+    "geslaagd": false,
+    "cijferlijst": [
+      7.0,
+      8.0,
+      2.7,
+      9.3,
+      6.8,
+      9.5,
+      4.1,
+      2.7,
+      6.4
+    ]
+  },
+  {
+    "studentnummer": "s13466942",
+    "geslaagd": true,
+    "cijferlijst": [
+      3.3,
+      7.5,
+      9.4
+    ]
+  },
+  {
+    "studentnummer": "s14242478",
+    "geslaagd": false,
+    "cijferlijst": [
+      10.0,
       10.0,
       9.1,
-      2.2,
+      2.5,
+      4.1,
+      3.0,
+      5.7
+    ]
+  },
+  {
+    "studentnummer": "s11119359",
+    "geslaagd": false
+  },
+  {
+    "studentnummer": "s12324149",
+    "geslaagd": false,
+    "cijferlijst": [
+      3.1,
+      7.5,
+      7.2
+    ]
+  },
+  {
+    "studentnummer": "s10353912",
+    "geslaagd": false,
+    "cijferlijst": [
+      4.4,
+      5.7,
+      6.1
+    ]
+  },
+  {
+    "studentnummer": "s14770153",
+    "geslaagd": true,
+    "cijferlijst": [
+      3.6,
+      5.8,
+      5.9,
+      2.7,
+      2.9,
+      10.0
+    ]
+  },
+  {
+    "studentnummer": "s19495854",
+    "geslaagd": false,
+    "cijferlijst": [
+      2.2
+    ]
+  },
+  {
+    "studentnummer": "s18067330",
+    "geslaagd": false,
+    "cijferlijst": [
+      8.6,
+      2.3,
+      8.8,
+      4.7,
+      4.7,
+      8.7,
+      8.6,
+      8.7,
+      7.1,
+      1.0
+    ]
+  },
+  {
+    "studentnummer": "s19682630",
+    "geslaagd": false,
+    "cijferlijst": [
+      2.6,
+      3.5,
+      1.6,
+      8.4,
+      10.0,
+      6.5,
+      3.2,
+      2.5
+    ]
+  },
+  {
+    "studentnummer": "s10404378",
+    "geslaagd": false,
+    "cijferlijst": [
+      7.3
+    ]
+  },
+  {
+    "studentnummer": "s18807410",
+    "geslaagd": true,
+    "cijferlijst": [
+      5.2,
+      3.2,
+      1.8,
+      1.1,
+      3.4,
+      8.8,
+      3.9,
+      9.5,
+      5.4
+    ]
+  },
+  {
+    "studentnummer": "s14454726",
+    "geslaagd": false,
+    "cijferlijst": [
+      5.7,
+      3.4,
+      9.7
+    ]
+  },
+  {
+    "studentnummer": "s16981384",
+    "geslaagd": true,
+    "cijferlijst": [
+      7.3,
+      7.0,
+      3.6,
+      5.6,
+      1.5,
+      7.5,
+      6.1,
+      3.3,
+      6.8,
+      3.7
+    ]
+  },
+  {
+    "studentnummer": "s19710848",
+    "geslaagd": true,
+    "cijferlijst": [
+      1.0
+    ]
+  },
+  {
+    "studentnummer": "s12131798",
+    "geslaagd": true,
+    "cijferlijst": [
+      6.1,
+      5.7
+    ]
+  },
+  {
+    "studentnummer": "s11935646",
+    "geslaagd": true,
+    "cijferlijst": [
+      4.6,
+      10.0,
+      10.0,
+      6.5,
+      2.4
+    ]
+  },
+  {
+    "studentnummer": "s19037238",
+    "geslaagd": false,
+    "cijferlijst": [
+      9.2,
+      8.2,
+      2.9
+    ]
+  },
+  {
+    "studentnummer": "s16236498",
+    "geslaagd": false,
+    "cijferlijst": [
+      6.7,
       9.6,
-      3.6
+      9.4,
+      8.6,
+      1.0
+    ]
+  },
+  {
+    "studentnummer": "s19020979",
+    "geslaagd": false,
+    "cijferlijst": [
+      2.8,
+      2.3,
+      1.0,
+      5.8,
+      5.9,
+      7.6,
+      10.0,
+      3.0,
+      4.0
+    ]
+  },
+  {
+    "studentnummer": "s11334495",
+    "geslaagd": false
+  },
+  {
+    "studentnummer": "s19460258",
+    "geslaagd": false,
+    "cijferlijst": [
+      9.5,
+      2.9,
+      7.5,
+      1.1
+    ]
+  },
+  {
+    "studentnummer": "s17602949",
+    "geslaagd": true,
+    "cijferlijst": [
+      1.0,
+      4.5,
+      7.0,
+      5.6,
+      5.0,
+      5.5,
+      5.7,
+      6.3
+    ]
+  },
+  {
+    "studentnummer": "s19925706",
+    "geslaagd": false,
+    "cijferlijst": [
+      8.0,
+      7.4,
+      7.7,
+      7.1,
+      8.4,
+      6.8,
+      7.2
+    ]
+  },
+  {
+    "studentnummer": "s12913464",
+    "geslaagd": false,
+    "cijferlijst": [
+      3.4,
+      3.7,
+      4.7,
+      2.3,
+      5.1
+    ]
+  },
+  {
+    "studentnummer": "s13445037",
+    "geslaagd": true,
+    "cijferlijst": [
+      2.0,
+      7.3
+    ]
+  },
+  {
+    "studentnummer": "s11634913",
+    "geslaagd": false
+  },
+  {
+    "studentnummer": "s14519832",
+    "geslaagd": false,
+    "cijferlijst": [
+      3.0,
+      2.7,
+      7.9,
+      4.3
+    ]
+  },
+  {
+    "studentnummer": "s12348159",
+    "geslaagd": false,
+    "cijferlijst": [
+      2.3,
+      4.3,
+      9.2,
+      7.3,
+      5.7,
+      1.2
+    ]
+  },
+  {
+    "studentnummer": "s19523043",
+    "geslaagd": true,
+    "cijferlijst": [
+      6.0,
+      8.7,
+      2.2,
+      6.7,
+      4.0,
+      3.8,
+      6.8
+    ]
+  },
+  {
+    "studentnummer": "s17801917",
+    "geslaagd": true,
+    "cijferlijst": [
+      9.3,
+      3.3,
+      3.7
+    ]
+  },
+  {
+    "studentnummer": "s10549661",
+    "geslaagd": true,
+    "cijferlijst": [
+      7.8,
+      8.8,
+      1.2,
+      6.7,
+      9.4,
+      1.3
     ]
   }
 ]
